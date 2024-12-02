@@ -1,6 +1,10 @@
 # flutter_fitness
 
-A new Flutter project.
+Projeto feito em Flutter de um aplicativo de academia.
+
+Contém: 
+Login e registro.
+
 
 ## Getting Started
 
